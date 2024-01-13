@@ -1,0 +1,47 @@
+[
+	{
+		"alumno": "Alberto",
+		"nota": 9.09,
+		"ranking": 10
+	},
+	{
+		"alumno": "María",
+		"nota": 8,
+		"ranking": 100
+	},
+	{
+		"alumno": "Ángel",
+		"nota": 2,
+		"ranking": 120
+	},
+	{
+		"alumno": "Andrea",
+		"nota": 3,
+		"ranking": 1130
+	},
+	{
+		"alumno": "Carmen",
+		"nota": 4,
+		"ranking": 50
+	},
+	{
+		"alumno": "Jorge",
+		"nota": 7,
+		"ranking": 40
+	},
+	{
+		"alumno": "Javier",
+		"nota": 9,
+		"ranking": 10
+	},
+	{
+		"alumno": "Ana",
+		"nota": 5,
+		"ranking": 60
+	},
+	{
+		"alumno": "Angosto",
+		"nota": 2,
+		"ranking": 111
+	}
+]
