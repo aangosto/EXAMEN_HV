@@ -2,7 +2,7 @@
 	{
 		"alumno": "Alberto",
 		"nota": 9.09,
-		"ranking": 10
+		"ranking": 100
 	},
 	{
 		"alumno": "María",
@@ -17,7 +17,7 @@
 	{
 		"alumno": "Andrea",
 		"nota": 3,
-		"ranking": 1130
+		"ranking": 130
 	},
 	{
 		"alumno": "Carmen",
